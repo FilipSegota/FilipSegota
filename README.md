@@ -5,6 +5,9 @@
   <a href="https://www.linkedin.com/in/filipsegota/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
   </a>
+  <a href="mailto:segota.filip@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+  </a>
   <div>
     <img src="https://komarev.com/ghpvc/?username=FilipSegota&style=flat-square&color=blue" alt="Profile views"/>
   </div>
