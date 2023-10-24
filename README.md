@@ -21,7 +21,6 @@
 ### 👨‍💻 About Me: 
 I'm a coding enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>, looking to start off my coding career, and expand my knowledge and skills. I'm originally from Serbia 🇷🇸
   - 👨‍🎓 I'm a recent graduate with a degree in Computer & Information Sciences and Philosophy. Before college, I went to Engineering High School "Nikola Tesla" in Belgrade, Serbia, with a focus in Computer Science. There, I also studied programming, web design, database programming, and such, for all 4 years.
-  - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-FilipSegota-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipsegota/)
 ---
 ### 🛠️ Languages and Tools: 
 <div>
